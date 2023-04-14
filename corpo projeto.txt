@@ -1,0 +1,25 @@
+PROJETO INTEGRADOR   
+
+*IDEIAS:  Agenda de rotina/estudos diária   
+
+*INTRODUÇÃO: Como organizar seu dia e sua rotina com facilidade e, com a mesma facilidade estar adicionar tarefas e estudos em seu celular, tablet ou computador, suprindo assim a necessidade de manter o foco e organizar uma rotina com seu comprometimento, mesmo que a vida seja agitada e tumultuada, aumentando sua produtividade. 
+
+*TECNOLOGIAS: HTML, CSS, JS, FIGMA, .... 
+
+*PROBLEMATIZAÇÃO: Ao utilizar um aplicativo para organizar sua rotina, é comum que usuários enfrentem dificuldades em se adaptar e seguir corretamente o planejado, especialmente quando há pouco tempo disponível e muitas variáveis que podem interferir na rotina diária. Isso pode levar a um grande número de desistências e esquecimentos por parte dos usuários, o que dificulta o alcance de resultados e desestimula o uso do aplicativo. Para resolver esse problema, nosso projeto propõe uma solução para usuários iniciantes: um alarme que usa o alarme do celular para lembrá-los de organizar sua rotina e programar horários, além de gerar novos alarmes com antecedência de 15 minutos para permitir que o usuário se prepare e ajuste sua agenda. Dessa forma, esperamos ajudar os usuários a alcançar seus objetivos e manter uma rotina organizada. 
+
+*DESENVOLVIMENTO:  
+
+ADICIONAR TAREFAS ROTINEIRAS; 
+
+ABRIR AGENDA DO DIA; (AO CLICAR NO BOTÃO “ADICIONAR DIA” ABRIRÁ UM CALENDARIO PARA SELECIONAR A DATA) 
+
+ADICIONAR TAREFAS AO DIA; 
+
+DEFIFINIR TEMPO GASTO EM CADA ATIVIDADE; 
+
+MARCAR ATIVIDADES CONCLUIDAS; 
+
+FINALIZAR O DIA E FAZER UM BALANÇO DAS ATIVIDADES CONCLUIDAS. 
+
+Histórico para acompanhar os andamentos e aproveitamentos das rotinas criadas e executadas  
